@@ -1,0 +1,107 @@
+.theme-dark .chat>.content .messages .message-group .comment .markup {
+	color: #fcfcfc;
+}
+
+.guilds-wrapper {
+	background: #0c0c0c;
+}
+
+.scroller-fzNley {
+	background: #111111;
+}
+
+.private-channels .search-bar {
+	background: #0c0c0c;
+	border-bottom: 2px solid #a0003d;
+}
+
+.header-1tSljs {
+	background: #0c0c0c;
+	border-bottom: 2px solid #a0003d;
+}
+
+.chat>.title-wrap.title-wrap-dark {
+	background: #0c0c0c;
+	border-bottom: 2px solid #a0003d;
+}
+
+.container-iksrDt {
+	background: #0c0c0c;
+	border-top: 2px solid #a0003d;
+}
+
+.theme-dark #friends .friends-header {
+	background: #0c0c0c;
+	border-bottom: 2px solid #a0003d;
+}
+
+#friends .friends-table .friends-table-header {
+	background: #0c0c0c;
+}
+
+#friends .friends-table .friends-table-body {
+	background: #0c0c0c;
+}
+
+.theme-dark #friends {
+	background-color: #0c0c0c;
+}
+
+.scroller-wrap .scroller {
+	background-color: #0c0c0c;
+}
+
+.theme-dark .chat form {
+	background: #111111
+	border-top: 2px solid #a0003d;
+}
+
+.flex-spacer {
+	background: #111111;
+}
+
+.theme-dark .messages-wrapper .messages .divider span {
+	background-color: #a0003d;
+}
+
+.theme-dark .messages-wrapper .messages .divider.divider-red>div {
+	background: #a0003d;
+	border-top: 2px solid #a0003d;
+}
+
+.theme-dark .messages-wrapper .messages .divider.divider-red>span {
+	color: #fcfcfc;
+}
+
+.chat .new-messages-bar button {
+	background: #a0003d;
+	color: #fcfcfc;
+}
+
+.theme-dark .channel-members {
+	background-color: #111111;
+}
+
+.scroller-wrap .scroller::-webkit-scrollbar {
+    width:4px
+}
+.scroller.guild-channels::-webkit-scrollbar {
+    display:none
+}
+.scroller-wrap .scroller::-webkit-scrollbar-track-piece {
+    border:1px solid rgba(255,255,255,0)!important;
+    background-color:rgba(0,0,0,0)!important
+}
+.scroller-wrap .scroller::-webkit-scrollbar-thumb {
+    border:1px solid rgba(255,255,255,0)!important;
+    background-color:rgba(225,225,225,0.1)!important;
+    display:initial
+}
+.scroller-wrap .scroller::-webkit-scrollbar-thumb:hover {
+    border:1px solid rgba(255,255,255,0)!important;
+    background-color:rgba(225,225,225,0.25)!important
+}
+.scroller-wrap .scroller::-webkit-scrollbar-thumb:active {
+    border:1px solid rgba(255,255,255,0)!important;
+    background-color:rgba(225,225,225,0.2)!important
+}
