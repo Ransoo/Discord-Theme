@@ -60,6 +60,10 @@
 	background: #111111;
 }
 
+.theme-dark .chat form .typing {
+	background: #0c0c0c;
+}
+
 .theme-dark .messages-wrapper .messages .divider span {
 	background-color: #a0003d;
 }
